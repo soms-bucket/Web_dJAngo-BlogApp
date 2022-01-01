@@ -1,3 +1,4 @@
+django==2.2.24
 djangorestframework
 Pillow
 django-froala-editor
